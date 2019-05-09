@@ -1,13 +1,13 @@
 export default class ParticipantesT {
     constructor(participantes){
-        this._nombre = participantes.nombre;
+        this._nombreParticipante = participantes.nombreParticipante;
         this._email = participantes.email;
         this._fechaN = participantes.fechaN;
         this._nombreT = participantes.nombreT;
 
     }
-    get nombre() {
-        return this._nombre;
+    get nombreParticipante() {
+        return this._nombreParticipante;
     }
 
     get email() {
