@@ -37,14 +37,14 @@ class Main1 {
         let tabla1 = new ParticipantesT(document.querySelector("#listado"));
         document.querySelector("#btn2").addEventListener("click", () => {
 
-            let nombreParticipante = document.querySelector("#nombre").value;
+            let nombreP = document.querySelector("#nombre").value;
             let email = document.querySelector("#email").value;
             let fachaN = document.querySelector("#fechaN").value;
             let nombreT = document.querySelector("#nombreT").value;
 
 
             let objParticipante = {
-                nombreParticipante: nombreParticipante,
+                nombreP: nombreP,
                 email: email,
                 fachaN: fachaN,
                 nombreT: nombreT
