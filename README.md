@@ -1,4 +1,6 @@
  # Ejercicio 5 El Congreso
+ 
+ [![Codacy Badge](https://api.codacy.com/project/badge/Grade/6d99a61d4c75493880727251d4272837)](https://www.codacy.com/app/cperez26/05-app-congreso-cperez26?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=POO-2019-2K/05-app-congreso-cperez26&amp;utm_campaign=Badge_Grade)
 
 ## Tiempo para realizar la actividad
 
